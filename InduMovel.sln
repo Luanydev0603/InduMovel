@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InduMovel", "InduMovel.csproj", "{698EA2E6-45EE-410D-A83E-B3EA7A594CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{698EA2E6-45EE-410D-A83E-B3EA7A594CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698EA2E6-45EE-410D-A83E-B3EA7A594CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698EA2E6-45EE-410D-A83E-B3EA7A594CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698EA2E6-45EE-410D-A83E-B3EA7A594CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665D2CBB-F28A-4067-BC29-1EBB48CE4DA9}
+	EndGlobalSection
+EndGlobal
